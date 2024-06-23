@@ -25,6 +25,8 @@ public class Main {
 //        Prueba p = new Prueba();
 //        p.metodoPrueba();
 //        p.metodoPruebaS();
-        Junio7_if.ifE();
+        //Junio7_if.ifE();
+
+        Prueba.ejercicio();
     }
 }

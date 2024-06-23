@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Junio7_if {
     public static void ifE() {
 
@@ -37,5 +39,35 @@ public class Junio7_if {
             System.out.println("el numero es cero");
         }
 
+        // if anidados
+
+        int edad = 25;
+        boolean tieneLicenciaConducir = true;
+
+        if (edad >= 18) {
+            System.out.println("Eres mayor de edad");
+            if (tieneLicenciaConducir) {
+                System.out.println("Tienes una licencia de conducir");
+            } else {
+                System.out.println("NO Tienes una licencia de conducir");
+            }
+        } else {
+            System.out.println("Eres menor de edad");
+        }
+
+
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
