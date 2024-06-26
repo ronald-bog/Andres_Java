@@ -27,6 +27,16 @@ public class Main {
 //        p.metodoPruebaS();
         //Junio7_if.ifE();
 
-        Prueba.ejercicio();
+        //Junio26_metodos.funcionV();
+//        Junio26_metodos.funcionVParam(10,20);
+//        String nombre = Junio26_metodos.funcionRet();
+//        System.out.println(nombre);
+//
+//        int resultadoResta = Junio26_metodos.restar(10,5);
+//        System.out.println(resultadoResta);
+//        System.out.println(Junio26_metodos.restar(10,5));
+
+        System.out.println(Junio26_metodos.funcionRetC());
+
     }
 }
